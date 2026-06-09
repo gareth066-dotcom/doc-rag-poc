@@ -1,7 +1,7 @@
 from pypdf import PdfReader
 from pathlib import Path
 
-pdf = Path("data/sample.pdf")
+pdf = Path("data/Hydro-Bush-Datasheet.pdf")
 
 reader = PdfReader(pdf)
 

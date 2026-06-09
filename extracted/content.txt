@@ -1,0 +1,78 @@
+57
+Hydro Bush
+Hydro bushes are elastomer springs with integrated hydraulic damping. 
+Suitable for mountings of combustion engines, cabs, pumps and 
+compressors, mainly in agricultural machines and  construction machinery.
+They are specifically suited when low  frequencies occur as excitation 
+frequency in the mount system. They achieve a high damping in the 
+natural frequency range of the system as well as gut isolation properties 
+above this range. All Hydro Bushes are galvanised to give extra resistance 
+against corrosion. HD Hydro Bushes have a metal core which limits 
+movement in z-direction.
+Typical applications:
+• Engine mounts
+• Cab mount
+• Pumps
+• Compressors 
+HYDRO BUSH HD-RATED HYDRO BUSH
+• Industrial fans
+• Sound enclosures
+• Floating structures
+70±1
+85
+7,5±1,5 Ød
+Ø38
+R5~~
+FX
+Ø100
++0,4
+-0
+4~~
+FZ
+FY
+Housing:  steel with a min. tensile strength 
+                of 270 N/mm2
+Rubber bulging
+up to max. Ø42 permissible, 
+both ends
+One solid rubber internal stop
+at each end
+Clearance without load~~
+DRAWING NO. PART NO. HARDNESS 
+(IRHD)
+DIMENSIONS (mm) AXIAL RADIAL (Z) RADIAL (Y)
+ØD Tolerance 
+for ØD Ød Tolerance 
+for Ød
+STIFFNESS  
+(N/mm)
+MAX. LOAD AT 
+S=3mm (N)
+STIFFNESS  
+(N/mm)
+MAX. 
+LOAD 
+(N)
+STIFFNESS  
+(N/mm)
+MAX. LOAD AT 
+SY=2mm (N)
+HYDRO BUSH
+046 18 013 95573 40 100 -0/+0.22 25 -0/+0.052 110 330 220 1100 300 600
+046 18 711 49022801 40 100 -0/+0.4 32 -0/+0.062 110 330 220 1100 300 600
+046 18 014 595574 50 100 -0/+0.22 25 -0/+0.052 220 660 320 1600 600 1200
+046 18 708 507315 50 100 -0/+0.22 32 -0/+0.062 220 660 320 1600 600 1200
+046 18 015 595575 60 100 -0/+0.4 25 -0/+0.052 330 990 500 2500 830 1660
+046 18 714 49022864 60 100 -0/+0.4 32 -0/+0.062 330 990 500 2500 830 1660
+046 18 016 595576 65 100 -0/+0.4 32 -0/+0.062 425 1275 685 3450 1070 2140
+046 18 017 95676 70 100 -0/+0.4 32 -0/+0.062 520 1560 840 4200 1300 2600
+HD - RATED HYDRO BUSH
+046 18 712 49022862 40 100 -0/+0.4 32 -0/+0.062 110 330 220 1100 300 600
+046 18 713 49022863 50 100 -0/+0.4 32 -0/+0.062 220 660 320 1600 600 1200
+046 18 705 477895 60 100 -0/+0.22 32 -0/+0.062 330 990 500 2500 830 1660
+046 18 715 49022865 65 100 -0/+0.4 32 -0/+0.062 425 1275 685 3450 1070 2140
+046 18 702 600984 70 100 -0/+0.4 32 -0/+0.062 520 1560 840 4200 1300 2600
+Technical Drawing 
+Product Data
+Product images are graphical representations. Actual items may differ in appearance 
+
