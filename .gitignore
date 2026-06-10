@@ -6,6 +6,9 @@
 __pycache__/
 *.py[cod]
 
+# Generated output
+extracted/
+
 
 # macOS
 .DS_Store

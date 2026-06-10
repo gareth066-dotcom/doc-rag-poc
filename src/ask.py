@@ -1,27 +1,40 @@
-from openai import OpenAI
+from pathlib import Path
+
 from dotenv import load_dotenv
+from openai import OpenAI
+from retrieve import load_relevant_context
 
 load_dotenv()
 
 client = OpenAI()
+content_path = Path("extracted/content.txt")
 
-content = open(
-    "extracted/content.txt",
-    encoding="utf-8"
-).read()
+while True:
 
-question = input("Question: ")
+    question = input("\nQuestion: ")
 
-response = client.responses.create(
-    model="gpt-5",
-    input=f"""
-Document:
+    if question.lower() == "exit":
+        break
 
-{content}
+    context = load_relevant_context(content_path, question)
 
-Question:
+    response = client.responses.create(
+        model="gpt-5",
+        input=f"""
+You are a document assistant.
+
+Answer only from the provided content.
+If the answer is not in the excerpts, say you could not find it.
+
+DOCUMENT EXCERPTS:
+
+{context}
+
+QUESTION:
+
 {question}
 """
-)
+    )
 
-print(response.output_text)
+    print("\nAnswer:")
+    print(response.output_text)
